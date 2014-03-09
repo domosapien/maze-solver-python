@@ -27,3 +27,6 @@ Generating GIF...	out/maze_000.gif
   ```
   sudo apt-get install imagemagick
   ```
+
+#### Inspired by:
+http://stackoverflow.com/questions/12995434/representing-and-solving-a-maze-given-an-image
